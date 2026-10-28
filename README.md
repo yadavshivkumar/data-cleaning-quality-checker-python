@@ -134,7 +134,4 @@ If the notebook is stored in the main project folder instead of `notebooks`, ope
 ## 12. Conclusion
 
 This project demonstrates practical data cleaning, validation, exploratory analysis, visualization, and reporting using Python. It provides a foundation for understanding data quality management in real-world data analysis workflows.
-=======
-# data-cleaning-quality-checker-python
-Python project for data cleaning, validation, quality reporting, and visualization
->>>>>>> 73d24e0d47f067e9199d6fa6a73777d653f010fd
+
