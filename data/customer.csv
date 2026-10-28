@@ -1,0 +1,7 @@
+customer_id,name,email,age,city,annual_income,signup_date
+1001,Rahul Sharma,rahul@example.com,24.0,Delhi,420000,2024-01-12
+1002,Priya Verma,priya@example.com,,Mumbai,580000,2024-02-18
+1003,Amit Kumar,amit@example.com,29.0,Delhi,610000,2024-03-07
+1003,Amit Kumar,amit@example.com,29.0,Delhi,610000,2024-03-07
+1004,Neha Singh,neha@example.com,150.0,mumbai,450000,2024-04-29
+1005,Ravi Kumar,,27.0,Delhi,390000,2024-05-10
