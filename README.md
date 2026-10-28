@@ -122,16 +122,9 @@ If the notebook is stored in the main project folder instead of `notebooks`, ope
 - The age validation range is a project-specific rule.
 - Automated checks report data quality issues but do not automatically resolve every possible issue.
 
-## 11. Future Improvements
 
-- Add a graphical user interface.
-- Support user-uploaded CSV and Excel files.
-- Add configurable validation rules.
-- Generate a PDF quality report.
-- Add more advanced anomaly detection.
-- Store datasets and reports in a database.
 
-## 12. Conclusion
+## 11. Conclusion
 
 This project demonstrates practical data cleaning, validation, exploratory analysis, visualization, and reporting using Python. It provides a foundation for understanding data quality management in real-world data analysis workflows.
 
