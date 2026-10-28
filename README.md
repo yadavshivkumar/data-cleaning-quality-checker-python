@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data Cleaning & Quality Checker
 
 ## 1. Project Overview
